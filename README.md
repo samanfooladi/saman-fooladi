@@ -49,7 +49,7 @@ Currently focused on building projects with **React.js**, **Next.js**, and **mod
 ### 📊 GitHub Stats:
 <div align="center">
   
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wtfbruhwow&show_icons=true&theme=tokyonight&hide_border=true)
+![Saman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wtfbruhwow&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wtfbruhwow&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
